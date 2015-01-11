@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.7.0_45-b18 (Oracle Corporation)
+Codebase: *
+Permission: sandbox
+java_status_events: true
+Application-Name: video-js
+Bundle-Name: Name of your llibrary
+Bundle-Version: 0.1.0
+Bundle-Date: 2015-01-11 19:17:52 CET
+Implementation-Title: Name of your llibrary
+Implementation-Version: 0.1.0
+

@@ -1,0 +1,12 @@
+.DS_Store
+*.log
+node_modules/
+dist/
+*~
+nbproject/private/
+*.avi
+*.wav
+*.mid
+*.jar
+build
+/java/video-js/nbproject/private/
