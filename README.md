@@ -2,7 +2,7 @@
 
 Video.js Java Tech plug-in
 
-A Video.js tech plugin that add AIFF, AVI GSM, MVR MID, MPG, MP2, MOV, AU and WAV stream support through Java.
+A Video.js tech plugin that add AIFF, AVI, GSM, MID, MPG, MP2, MOV, AU and WAV stream support through Java.
 
 ## Getting Started
 

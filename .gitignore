@@ -7,6 +7,9 @@ nbproject/private/
 *.avi
 *.wav
 *.mid
+*.mp3
+*.mov
+*.mpg
 *.jar
 build
 /java/video-js/nbproject/private/
